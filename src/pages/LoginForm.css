@@ -1,0 +1,14 @@
+.user-icon {
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  margin-bottom: 50px;
+}
+
+.login-box {
+  background-color: #d3eaf2;
+  border-radius: 20px;
+  padding: 25px;
+  margin-top: 50px;
+  box-shadow: 5px 10px #cdd7d9;
+}
